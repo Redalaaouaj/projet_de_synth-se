@@ -1,1 +1,1 @@
-# projet_de_synth-se
+# projet_de_synthese
