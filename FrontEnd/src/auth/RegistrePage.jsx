@@ -29,7 +29,7 @@ const RegisterPage = () => {
           </button>
         </div>
         {activeTab === 'user' && (
-          <form className="flex flex-col">
+          <form action='/home' className="flex flex-col">
 
             <input
               type="text"

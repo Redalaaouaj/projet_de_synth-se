@@ -5,7 +5,7 @@ export default function Reservation() {
 
         <Header />
 
-        <div className="overflow-x-auto m-5">
+        <div className="overflow-x-auto m-20">
             <table className="min-w-full divide-y-2 divide-blue-200 bg-white text-sm">
                 <thead className="ltr:text-left rtl:text-right">
                     <tr>
