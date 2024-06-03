@@ -2,11 +2,11 @@ import { Link } from "react-router-dom";
 
 const Header = () => {
     return (
-        <header className="bg-white dark:bg-zinc-800 p-4 flex justify-between items-center shadow-md">
+        <header className="bg-white dark:bg-zinc-800 px-7 py-4 flex justify-between items-center shadow-md">
             <Link to="/home">
-                <img src="allocazion.png" alt="Logo" className="h-10" crossOrigin="anonymous" />
+                <img src="allocazion.png" alt="Logo" className="h-7" crossOrigin="anonymous" />
             </Link>
-            <div className="flex items-center space-x-4">
+            <div className="flex items-center space-x-12">
                 <Link to="/register">
                 <button className="text-zinc-600 dark:text-zinc-300">Publiez votre stock</button>
                 </Link>

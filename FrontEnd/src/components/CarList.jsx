@@ -1,4 +1,3 @@
-import React from 'react';
 
 const CarList = () => {
     return (
@@ -36,7 +35,7 @@ const CarList = () => {
                                 viewBox="0 0 24 24"
                                 height="1em"
                                 width="1em"
-                                className="size-4 text-indigo-700"
+                                className="size-6 text-indigo-500"
                             >
                                 <path stroke="none" d="M0 0h24v24H0z" />
                                 <path d="M7 6 A2 2 0 0 1 5 8 A2 2 0 0 1 3 6 A2 2 0 0 1 7 6 z" />
@@ -60,7 +59,7 @@ const CarList = () => {
                                 fill="currentColor"
                                 height="1em"
                                 width="1em"
-                                className="size-4 text-indigo-700"
+                                className="size-6 text-indigo-500"
                             >
                                 <path d="M19.77 7.23l.01-.01-3.72-3.72L15 4.56l2.11 2.11c-.94.36-1.61 1.26-1.61 2.33a2.5 2.5 0 002.5 2.5c.36 0 .69-.08 1-.21v7.21a1 1 0 01-1 1 1 1 0 01-1-1V14a2 2 0 00-2-2h-1V5a2 2 0 00-2-2H6a2 2 0 00-2 2v16h10v-7.5h1.5v5A2.5 2.5 0 0018 21a2.5 2.5 0 002.5-2.5V9c0-.69-.28-1.32-.73-1.77M12 13.5V19H6v-7h6v1.5m0-3.5H6V5h6v5m6 0a1 1 0 01-1-1 1 1 0 011-1 1 1 0 011 1 1 1 0 01-1 1z" />
                             </svg>
@@ -78,7 +77,7 @@ const CarList = () => {
                                 fill="currentColor"
                                 height="1em"
                                 width="1em"
-                                className="size-4 text-indigo-700"
+                                className="size-6 text-indigo-500"
                             >
                                 <path d="M7 18S4 10 4 6s2-4 2-4h1s1 0 1 1-1 1-1 3 3 4 3 7-3 5-3 5m5-1c-1 0-4 2.5-4 2.5-.3.2-.2.5 0 .8 0 0 1 1.8 3 1.8h6c1.1 0 2-.9 2-2v-1c0-1.1-.9-2-2-2h-5z" />
                             </svg>
@@ -125,7 +124,7 @@ const CarList = () => {
                                 viewBox="0 0 24 24"
                                 height="1em"
                                 width="1em"
-                                className="size-4 text-indigo-700"
+                                className="size-6 text-indigo-500"
                             >
                                 <path stroke="none" d="M0 0h24v24H0z" />
                                 <path d="M7 6 A2 2 0 0 1 5 8 A2 2 0 0 1 3 6 A2 2 0 0 1 7 6 z" />
@@ -149,7 +148,7 @@ const CarList = () => {
                                 fill="currentColor"
                                 height="1em"
                                 width="1em"
-                                className="size-4 text-indigo-700"
+                                className="size-6 text-indigo-500"
                             >
                                 <path d="M19.77 7.23l.01-.01-3.72-3.72L15 4.56l2.11 2.11c-.94.36-1.61 1.26-1.61 2.33a2.5 2.5 0 002.5 2.5c.36 0 .69-.08 1-.21v7.21a1 1 0 01-1 1 1 1 0 01-1-1V14a2 2 0 00-2-2h-1V5a2 2 0 00-2-2H6a2 2 0 00-2 2v16h10v-7.5h1.5v5A2.5 2.5 0 0018 21a2.5 2.5 0 002.5-2.5V9c0-.69-.28-1.32-.73-1.77M12 13.5V19H6v-7h6v1.5m0-3.5H6V5h6v5m6 0a1 1 0 01-1-1 1 1 0 011-1 1 1 0 011 1 1 1 0 01-1 1z" />
                             </svg>
@@ -167,7 +166,7 @@ const CarList = () => {
                                 fill="currentColor"
                                 height="1em"
                                 width="1em"
-                                className="size-4 text-indigo-700"
+                                className="size-6 text-indigo-500"
                             >
                                 <path d="M7 18S4 10 4 6s2-4 2-4h1s1 0 1 1-1 1-1 3 3 4 3 7-3 5-3 5m5-1c-1 0-4 2.5-4 2.5-.3.2-.2.5 0 .8 0 0 1 1.8 3 1.8h6c1.1 0 2-.9 2-2v-1c0-1.1-.9-2-2-2h-5z" />
                             </svg>
@@ -214,7 +213,7 @@ const CarList = () => {
                                 viewBox="0 0 24 24"
                                 height="1em"
                                 width="1em"
-                                className="size-4 text-indigo-700"
+                                className="size-6 text-indigo-500"
                             >
                                 <path stroke="none" d="M0 0h24v24H0z" />
                                 <path d="M7 6 A2 2 0 0 1 5 8 A2 2 0 0 1 3 6 A2 2 0 0 1 7 6 z" />
@@ -238,7 +237,7 @@ const CarList = () => {
                                 fill="currentColor"
                                 height="1em"
                                 width="1em"
-                                className="size-4 text-indigo-700"
+                                className="size-6 text-indigo-500"
                             >
                                 <path d="M19.77 7.23l.01-.01-3.72-3.72L15 4.56l2.11 2.11c-.94.36-1.61 1.26-1.61 2.33a2.5 2.5 0 002.5 2.5c.36 0 .69-.08 1-.21v7.21a1 1 0 01-1 1 1 1 0 01-1-1V14a2 2 0 00-2-2h-1V5a2 2 0 00-2-2H6a2 2 0 00-2 2v16h10v-7.5h1.5v5A2.5 2.5 0 0018 21a2.5 2.5 0 002.5-2.5V9c0-.69-.28-1.32-.73-1.77M12 13.5V19H6v-7h6v1.5m0-3.5H6V5h6v5m6 0a1 1 0 01-1-1 1 1 0 011-1 1 1 0 011 1 1 1 0 01-1 1z" />
                             </svg>
@@ -256,7 +255,7 @@ const CarList = () => {
                                 fill="currentColor"
                                 height="1em"
                                 width="1em"
-                                className="size-4 text-indigo-700"
+                                className="size-6 text-indigo-500"
                             >
                                 <path d="M7 18S4 10 4 6s2-4 2-4h1s1 0 1 1-1 1-1 3 3 4 3 7-3 5-3 5m5-1c-1 0-4 2.5-4 2.5-.3.2-.2.5 0 .8 0 0 1 1.8 3 1.8h6c1.1 0 2-.9 2-2v-1c0-1.1-.9-2-2-2h-5z" />
                             </svg>
@@ -303,7 +302,7 @@ const CarList = () => {
                                 viewBox="0 0 24 24"
                                 height="1em"
                                 width="1em"
-                                className="size-4 text-indigo-700"
+                                className="size-6 text-indigo-500"
                             >
                                 <path stroke="none" d="M0 0h24v24H0z" />
                                 <path d="M7 6 A2 2 0 0 1 5 8 A2 2 0 0 1 3 6 A2 2 0 0 1 7 6 z" />
@@ -327,7 +326,7 @@ const CarList = () => {
                                 fill="currentColor"
                                 height="1em"
                                 width="1em"
-                                className="size-4 text-indigo-700"
+                                className="size-6 text-indigo-500"
                             >
                                 <path d="M19.77 7.23l.01-.01-3.72-3.72L15 4.56l2.11 2.11c-.94.36-1.61 1.26-1.61 2.33a2.5 2.5 0 002.5 2.5c.36 0 .69-.08 1-.21v7.21a1 1 0 01-1 1 1 1 0 01-1-1V14a2 2 0 00-2-2h-1V5a2 2 0 00-2-2H6a2 2 0 00-2 2v16h10v-7.5h1.5v5A2.5 2.5 0 0018 21a2.5 2.5 0 002.5-2.5V9c0-.69-.28-1.32-.73-1.77M12 13.5V19H6v-7h6v1.5m0-3.5H6V5h6v5m6 0a1 1 0 01-1-1 1 1 0 011-1 1 1 0 011 1 1 1 0 01-1 1z" />
                             </svg>
@@ -345,7 +344,7 @@ const CarList = () => {
                                 fill="currentColor"
                                 height="1em"
                                 width="1em"
-                                className="size-4 text-indigo-700"
+                                className="size-6 text-indigo-500"
                             >
                                 <path d="M7 18S4 10 4 6s2-4 2-4h1s1 0 1 1-1 1-1 3 3 4 3 7-3 5-3 5m5-1c-1 0-4 2.5-4 2.5-.3.2-.2.5 0 .8 0 0 1 1.8 3 1.8h6c1.1 0 2-.9 2-2v-1c0-1.1-.9-2-2-2h-5z" />
                             </svg>
@@ -392,7 +391,7 @@ const CarList = () => {
                                 viewBox="0 0 24 24"
                                 height="1em"
                                 width="1em"
-                                className="size-4 text-indigo-700"
+                                className="size-6 text-indigo-500"
                             >
                                 <path stroke="none" d="M0 0h24v24H0z" />
                                 <path d="M7 6 A2 2 0 0 1 5 8 A2 2 0 0 1 3 6 A2 2 0 0 1 7 6 z" />
@@ -416,7 +415,7 @@ const CarList = () => {
                                 fill="currentColor"
                                 height="1em"
                                 width="1em"
-                                className="size-4 text-indigo-700"
+                                className="size-6 text-indigo-500"
                             >
                                 <path d="M19.77 7.23l.01-.01-3.72-3.72L15 4.56l2.11 2.11c-.94.36-1.61 1.26-1.61 2.33a2.5 2.5 0 002.5 2.5c.36 0 .69-.08 1-.21v7.21a1 1 0 01-1 1 1 1 0 01-1-1V14a2 2 0 00-2-2h-1V5a2 2 0 00-2-2H6a2 2 0 00-2 2v16h10v-7.5h1.5v5A2.5 2.5 0 0018 21a2.5 2.5 0 002.5-2.5V9c0-.69-.28-1.32-.73-1.77M12 13.5V19H6v-7h6v1.5m0-3.5H6V5h6v5m6 0a1 1 0 01-1-1 1 1 0 011-1 1 1 0 011 1 1 1 0 01-1 1z" />
                             </svg>
@@ -434,7 +433,7 @@ const CarList = () => {
                                 fill="currentColor"
                                 height="1em"
                                 width="1em"
-                                className="size-4 text-indigo-700"
+                                className="size-6 text-indigo-500"
                             >
                                 <path d="M7 18S4 10 4 6s2-4 2-4h1s1 0 1 1-1 1-1 3 3 4 3 7-3 5-3 5m5-1c-1 0-4 2.5-4 2.5-.3.2-.2.5 0 .8 0 0 1 1.8 3 1.8h6c1.1 0 2-.9 2-2v-1c0-1.1-.9-2-2-2h-5z" />
                             </svg>
@@ -483,7 +482,7 @@ const CarList = () => {
                                 viewBox="0 0 24 24"
                                 height="1em"
                                 width="1em"
-                                className="size-4 text-indigo-700"
+                                className="size-6 text-indigo-500"
                             >
                                 <path stroke="none" d="M0 0h24v24H0z" />
                                 <path d="M7 6 A2 2 0 0 1 5 8 A2 2 0 0 1 3 6 A2 2 0 0 1 7 6 z" />
@@ -507,7 +506,7 @@ const CarList = () => {
                                 fill="currentColor"
                                 height="1em"
                                 width="1em"
-                                className="size-4 text-indigo-700"
+                                className="size-6 text-indigo-500"
                             >
                                 <path d="M19.77 7.23l.01-.01-3.72-3.72L15 4.56l2.11 2.11c-.94.36-1.61 1.26-1.61 2.33a2.5 2.5 0 002.5 2.5c.36 0 .69-.08 1-.21v7.21a1 1 0 01-1 1 1 1 0 01-1-1V14a2 2 0 00-2-2h-1V5a2 2 0 00-2-2H6a2 2 0 00-2 2v16h10v-7.5h1.5v5A2.5 2.5 0 0018 21a2.5 2.5 0 002.5-2.5V9c0-.69-.28-1.32-.73-1.77M12 13.5V19H6v-7h6v1.5m0-3.5H6V5h6v5m6 0a1 1 0 01-1-1 1 1 0 011-1 1 1 0 011 1 1 1 0 01-1 1z" />
                             </svg>
@@ -525,7 +524,7 @@ const CarList = () => {
                                 fill="currentColor"
                                 height="1em"
                                 width="1em"
-                                className="size-4 text-indigo-700"
+                                className="size-6 text-indigo-500"
                             >
                                 <path d="M7 18S4 10 4 6s2-4 2-4h1s1 0 1 1-1 1-1 3 3 4 3 7-3 5-3 5m5-1c-1 0-4 2.5-4 2.5-.3.2-.2.5 0 .8 0 0 1 1.8 3 1.8h6c1.1 0 2-.9 2-2v-1c0-1.1-.9-2-2-2h-5z" />
                             </svg>

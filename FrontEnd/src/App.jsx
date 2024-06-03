@@ -12,8 +12,8 @@ function App() {
     <AuthContext.Provider value={{ user, setUser }} >
       <BrowserRouter>
         <Routes>
-          <Route path="register" element={<RegisterPage />} />
-          <Route path='/home' element={<CarListing/>}/>
+          <Route path="/register" element={<RegisterPage />} />
+          <Route path='/' element={<CarListing/>}/>
           <Route path='/reservation' element={<Reservation/>}/>
           {/* <Route path="/login" element={<LoginPage />} />
           <Route path="/forgot-password" element={<ForgotPasswordPage />} /> */}
